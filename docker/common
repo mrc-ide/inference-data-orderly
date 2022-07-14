@@ -1,6 +1,6 @@
 ## -*-sh-*-
 PACKAGE_ROOT=$(realpath $HERE/..)
-PACKAGE_NAME=inference_data_orderly
+PACKAGE_NAME=inference-data-orderly
 PACKAGE_ORG=mrcide
 
 GIT_SHA=$(git -C "$PACKAGE_ROOT" rev-parse --short=7 HEAD)
