@@ -1,6 +1,6 @@
 # inference-data-orderly
 
-[![Build status](https://badge.buildkite.com/238568f4671d9f391b7e48e5a225f3e1be32b7b6191caa261f.svg?branch=main)](https://buildkite.com/mrc-ide/inference-data-orderly)
+[![Build status](https://badge.buildkite.com/193017a1dbd38cc351c0bfc7da06662010827830916bfd851d.svg)](https://buildkite.com/mrc-ide/inference-data-orderly)
 
 This is the docker container for [inference-data](https://github.com/mrc-ide/inference-data).
 
