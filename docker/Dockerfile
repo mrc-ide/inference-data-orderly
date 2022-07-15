@@ -52,9 +52,11 @@ RUN install_packages --repo "https://www.vaccineimpact.org/drat/" \
         drat \
         forcats \
         ggplot2 \
+	gridExtra \
         haven \
         httr \
         jsonlite \
+	lwgeom \
         orderly.sharepoint \
         orderlyweb \
         pdftools \
