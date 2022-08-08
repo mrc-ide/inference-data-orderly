@@ -47,7 +47,8 @@ COPY bin /usr/local/bin/
 
 # Add new packages here (in alphabetical order)
 RUN install_packages --repo "https://www.vaccineimpact.org/drat/" \
-        ckanr \
+	ckanr \
+	countrycode \
         dplyr \
         drat \
         forcats \
