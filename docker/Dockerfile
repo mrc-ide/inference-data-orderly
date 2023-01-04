@@ -49,6 +49,7 @@ COPY bin /usr/local/bin/
 RUN install_packages --repo "https://mrc-ide.r-universe.dev" \
 	ckanr \
 	countrycode \
+	cowplot \
         dplyr \
         drat \
         forcats \
