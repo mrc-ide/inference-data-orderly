@@ -59,6 +59,7 @@ RUN install_packages --repo "https://mrc-ide.r-universe.dev" \
         httr \
         jsonlite \
 	lwgeom \
+	moz.utils \
         naomi \
         naomi.utils \
         orderly.sharepoint \
