@@ -56,6 +56,7 @@ RUN install_packages --repo "https://mrc-ide.r-universe.dev" \
         ggplot2 \
 	gridExtra \
         haven \
+	Hmisc \
         httr \
         jsonlite \
 	lwgeom \
