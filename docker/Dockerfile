@@ -86,4 +86,6 @@ RUN install_packages --repo "https://mrc-ide.r-universe.dev" \
         yaml \
         zip
 
+RUN install_remote mrc-ide/rrq@orderly1compat
+
 WORKDIR /orderly
