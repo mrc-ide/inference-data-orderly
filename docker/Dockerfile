@@ -56,6 +56,8 @@ RUN install_packages --repo "https://mrc-ide.r-universe.dev" \
 	cowplot \
         dplyr \
         drat \
+        eppasm \
+        first90 \
         forcats \
         ggplot2 \
 	gridExtra \
